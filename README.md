@@ -8,4 +8,4 @@ I write about new technologies, how I've solved some problems, and bring out my 
 - [Bringing your blockchain business to React Native](https://danilowoz.com/blog/bringing-your-blockchain-business-to-react-native)
 - [Atomic Design and ReactJS](https://danilowoz.com/blog/atomic-design-with-react)
 
-[danilowoz.con](https://danilowoz.com/)
+[danilowoz.com](https://danilowoz.com/)
